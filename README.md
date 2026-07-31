@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=220&section=header&text=Vraj%20Patel&fontSize=46&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Full-Stack%20Developer%20%26%20AI-ML%20Engineer&descAlignY=55&descSize=18" width="100%"/>
-
-<a href="https://vrajpatel10.vercel.app"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+AI%2FML+Engineer;Building+SBS+V2+at+CSD+InfoSolution;LangChain+-+RAG+-+LLM+APIs;Open+to+New+Opportunities" alt="Typing SVG"/></a>
+<img src="https://raw.githubusercontent.com/pvraj1011/github-stats-cards/output/header.svg" width="100%" alt="Vraj Patel - Full-Stack Developer & AI/ML Engineer"/>
 
 </div>
 
