@@ -89,13 +89,12 @@ flowchart LR
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=pvraj1011&show_icons=true&theme=tokyonight&hide_border=true&count_private=false&include_all_commits=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvraj1011&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" width="49%"/>
+<img src="https://raw.githubusercontent.com/pvraj1011/github-stats-cards/output/stats.svg" width="49%" alt="GitHub Stats"/>
+<img src="https://raw.githubusercontent.com/pvraj1011/github-stats-cards/output/languages.svg" width="49%" alt="Top Languages"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=pvraj1011&theme=tokyonight&hide_border=true" width="49%"/>
-<img src="https://github-profile-trophy.vercel.app/?username=pvraj1011&theme=tokyonight&no-frame=true&row=2&column=4" width="49%"/>
+<img src="https://raw.githubusercontent.com/pvraj1011/github-stats-cards/output/streak.svg" width="100%" alt="Streak Tracker"/>
 </p>
 
 <p align="center">
